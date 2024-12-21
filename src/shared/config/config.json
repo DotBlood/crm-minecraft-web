@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "server": {
+    "install": false,
+    "serverName": "",
+    "module": {
+      "skins": {
+        "enable": false
+      },
+      "shop": {
+        "enable": false
+      },
+      "forum": {
+        "enable": false
+      }
+    }
+  },
+  "yoomoney": {
+    "enable": false,
+    "api_key": ""
+  }
+}
